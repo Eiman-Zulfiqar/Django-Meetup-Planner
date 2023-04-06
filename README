@@ -9,4 +9,6 @@ organize meetups with their friends, colleagues or other like-minded people.
 * View upcoming meetups
 * Search for meetups based on keywords or location
 
+>To run the project, enter "python manage.py runserver" on terminal :)
+
 
