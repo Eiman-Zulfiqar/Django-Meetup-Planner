@@ -1,0 +1,12 @@
+🌟Django Meetup Planner:
+The Django Meetup Planner is a web application built using the Django framework that allows users to plan and 
+organize meetups with their friends, colleagues or other like-minded people.
+
+🌟Features
+* User authentication and registration
+* Create, edit and delete meetups
+* RSVP to meetups
+* View upcoming meetups
+* Search for meetups based on keywords or location
+
+
